@@ -5,3 +5,4 @@ logs/
 mysite.pid
 mysite/local_settings.py
 start.sh
+restart.sh
